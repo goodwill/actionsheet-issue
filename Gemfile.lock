@@ -2,9 +2,11 @@ GEM
   remote: https://rubygems.org/
   specs:
     sugarcube (1.0.1)
+    teacup (2.1.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   sugarcube
+  teacup
