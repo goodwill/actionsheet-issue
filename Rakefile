@@ -10,4 +10,5 @@ require 'sugarcube-all'
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'actionsheet-issue'
+  app.detect_dependencies = false
 end
